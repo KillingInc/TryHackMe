@@ -25,7 +25,7 @@ Upon completion, you will have established a robust foundation in cybersecurity,
 
 **Introductory CTFs to get your feet wet**
 - [x] [Google Dorking](https://tryhackme.com/room/googledorking)
-- [ ] [OHsint](https://tryhackme.com/room/ohsint)
+- [x] [OHsint](https://tryhackme.com/room/ohsint)
 
 ## Level 2 - Tooling
 - [ ] [Tmux](https://tryhackme.com/room/rptmux)
